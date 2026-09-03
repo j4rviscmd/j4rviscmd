@@ -10,8 +10,6 @@ e.g. [bilibili-downloader-gui](https://github.com/j4rviscmd/bilibili-downloader-
 
 </div>
 
-## 📊 GitHub Stats
-
 <div align="center">
   <img src="github-metrics.svg" alt="metrics" width="400" />
   <img src="languages.svg" alt="languages" width="400" />
