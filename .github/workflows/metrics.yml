@@ -10,12 +10,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      # github stars等 (base header: followed by / stars gained + 直近コミットカレンダー)
+      # github stars等 (base header + repositories + community + indepthでstar数の出力を検証)
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
-          base: header
+          base: header, repositories, community
+          base_indepth: yes
           config_timezone: Asia/Tokyo
       # most used languages (Solarized色で着色)
       - uses: lowlighter/metrics@latest
