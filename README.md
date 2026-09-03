@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&pause=1000&color=2AA198&random=false&width=620&lines=Hi%2C+I'm+j4rviscmd;TypeScript+%C3%97+Rust+%C3%97+Tauri;Desktop+App+%2F+Dev+Tool+Developer" alt="typing" />
+</div>
 
-<!--
-**j4rviscmd/j4rviscmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+QOL爆ｱｹﾞツールを作るのが好きです。<br>よくTauri2.0でデスクトップアプリを開発しています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+e.g. [bilibili-downloader-gui](https://github.com/j4rviscmd/bilibili-downloader-gui) (Tauri製 Bilibili動画ダウンローダ)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="github-metrics.svg" alt="metrics" width="400" />
+  <img src="languages.svg" alt="languages" width="400" />
+</div>
