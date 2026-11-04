@@ -3,6 +3,12 @@
 </div>
 
 <div align="center">
+  <a href="https://u8views.com/github/j4rviscmd">
+    <img src="https://u8views.com/api/v1/github/profiles/127029311/views/day-week-month-total-count.svg" alt="profile views" />
+  </a>
+</div>
+
+<div align="center">
 
 QOL爆ｱｹﾞツールを作るのが好きです。<br>よくTauri2.0でデスクトップアプリを開発しています。
 
